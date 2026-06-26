@@ -26,6 +26,17 @@ During the summer of 2020, the Mayor's Office of Workforce Development partnered
 
 In 2022 we collaborated with the Mayor’s Office of Talent and Workforce Development, Deputy Mayor’s Office of Strategic initiatives, and The Office of Technology and Innovation to release the next major version of the site for job-seekers and employers. In the fall we launched the redesigned site, increasing the amount of program content from 30 to over 80 workforce programs. We added 8 population specific guides for youth/young adults, NYCHA residents, people with disabilities, black/hispanic/latino/indigenous people of color, justice-impacted individuals, and LGBTQ+, veterans, and women. At one point it featured over 200 structured job posts. The relaunch coincided with the launch of <a href="https://mycity.nyc.gov" target="_blank" rel="noopener nofollow noreferrer">NYC MyCity</a> where Working NYC was featured as the primary workforce resource.
 
+<figure class="figure">
+  <div class="figure__matte flex items-center justify-center p-2 bg-t1 h-auto aspect-ratio-auto">
+    <iframe class="iframe" width="378" height="667" src="/working-nyc-redesign/"></iframe>
+  </div>
+
+  <figcaption class="static">
+    <p>The 2022 Working NYC Redesign. Please note this is a static archive copy of the site. Many features and links will be missing.</p>
+    <p><a class="btn btn-primary figure__cta" href="/working-nyc-redesign/" target="_blank" rel="noopener nofollow">View the full design <svg class="icon mis-half" aria-hidden="true"><use href="#tabler-external-link"></use></svg></a></p>
+  </figcaption>
+</figure>
+
 The projects below document my contributions prior to 2022 redesign and relaunch.
 
 &nbsp;
